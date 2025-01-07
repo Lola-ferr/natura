@@ -1,0 +1,101 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Lola-ferr.github.io/natura/manifests/manifest_natura2.json",
+  "@type" : "sc:Manifest",
+  "label" : "natura e persone",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "foto di persone  immerse nella natura",
+    "@language" : "it"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Eleonora Ferrari",
+  "sequences" : [ {
+    "@id" : "http://cb798409-a8e2-4fa3-8c60-a59f756e90fc",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://b32e6aee-e277-443c-9747-daed63210a45",
+      "@type" : "sc:Canvas",
+      "label" : "Natura 1",
+      "height" : 3744,
+      "width" : 5616,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e90738ec-d570-4c41-8076-137958103eaf",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lola-ferr.github.io/natura/images/becca-tapert--A_Sx8GrRWg-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lola-ferr.github.io/natura/images/becca-tapert--A_Sx8GrRWg-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3744,
+          "width" : 5616
+        },
+        "on" : "http://b32e6aee-e277-443c-9747-daed63210a45"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ac7b5241-3122-4f90-bd63-5bb84cdffe3e",
+      "@type" : "sc:Canvas",
+      "label" : "Natura 2",
+      "height" : 427,
+      "width" : 640,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://85533367-7816-4b4a-a3a6-50ca783a7f68",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lola-ferr.github.io/natura/images/joshua-earle-ICE__bo2Vws-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lola-ferr.github.io/natura/images/joshua-earle-ICE__bo2Vws-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 427,
+          "width" : 640
+        },
+        "on" : "http://ac7b5241-3122-4f90-bd63-5bb84cdffe3e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://84efca95-4eb2-4cd9-878c-a24ce593fa93",
+      "@type" : "sc:Canvas",
+      "label" : "Natura 3",
+      "height" : 427,
+      "width" : 640,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5f9844ac-8282-40e0-a3de-0d9b22889b78",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://lola-ferr.github.io/natura/images/robin-stuart-B_Asz7tHO6g-unsplash/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://lola-ferr.github.io/natura/images/robin-stuart-B_Asz7tHO6g-unsplash",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 427,
+          "width" : 640
+        },
+        "on" : "http://84efca95-4eb2-4cd9-878c-a24ce593fa93"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
