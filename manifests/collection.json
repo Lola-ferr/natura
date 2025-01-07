@@ -1,0 +1,13 @@
+{
+  "id" : "https://Lola-ferr.github.io/natura/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Lola-ferr/natura project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Lola-ferr.github.io/natura/manifests/manifest_natura.json",
+    "label" : "donna + natura + lago"
+  } ]
+}
