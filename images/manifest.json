@@ -1,0 +1,93 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://Lola-ferr.github.io/natura/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in Lola-ferr/natura project"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://Lola-ferr.github.io/natura/images/becca-tapert--A_Sx8GrRWg-unsplash/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "becca-tapert--A_Sx8GrRWg-unsplash"
+                ]
+            },
+            "height": 3744,
+            "width": 5616,
+            "items": [
+                {
+                    "id": "https://Lola-ferr.github.io/natura/images/becca-tapert--A_Sx8GrRWg-unsplash/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Lola-ferr.github.io/natura/images/becca-tapert--A_Sx8GrRWg-unsplash/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Lola-ferr.github.io/natura/images/becca-tapert--A_Sx8GrRWg-unsplash/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 176,
+                                                "height": 117
+                                            },
+                                            {
+                                                "width": 351,
+                                                "height": 234
+                                            },
+                                            {
+                                                "width": 702,
+                                                "height": 468
+                                            },
+                                            {
+                                                "width": 1404,
+                                                "height": 936
+                                            },
+                                            {
+                                                "width": 2808,
+                                                "height": 1872
+                                            },
+                                            {
+                                                "width": 5616,
+                                                "height": 3744
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5616,
+                                        "@id": "https://Lola-ferr.github.io/natura/images/becca-tapert--A_Sx8GrRWg-unsplash",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3744,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Lola-ferr.github.io/natura/images/becca-tapert--A_Sx8GrRWg-unsplash/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
