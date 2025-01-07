@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://Lola-ferr.github.io/natura/annotations/manifest_natura.json" ],
+  "@id" : "https://Lola-ferr.github.io/natura/annotations/collection.json",
+  "label" : "All annotations loaded in Lola-ferr/natura project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
