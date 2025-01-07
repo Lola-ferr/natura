@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Lola-ferr.github.io/natura/manifests/manifest_natura.json",
     "label" : "donna + natura + lago"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Lola-ferr.github.io/natura/manifests/manifest_natura2.json",
+    "label" : "natura e persone"
   } ]
 }
